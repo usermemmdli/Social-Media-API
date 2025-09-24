@@ -15,6 +15,7 @@ This is a **Social Media Backend API** developed using **Spring Boot**. It suppo
 - `checkPostReport` — Approve or reject reported posts.
 
 ### 📌 Bookmarks
+- `getMarkedPosts` — Show marked posts.
 - `addBookmarks` — Bookmark a post.
 - `deleteBookmarks` — Remove a bookmarked post.
 
@@ -74,3 +75,4 @@ This is a **Social Media Backend API** developed using **Spring Boot**. It suppo
 - **JUnit & Mockito** (Unit testing and mocking)
 
 ---
+
